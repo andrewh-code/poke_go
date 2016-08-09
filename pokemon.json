@@ -1,0 +1,23 @@
+{
+    "Gen1":{
+            "1":{
+                "name": "Bulbasaur"
+                }
+            },
+            "2":{
+                "name": "Ivysaur"
+            },
+            "3":{
+                "name": "Venasaur"
+            },
+            "4":{
+                "name": "Charmander"    
+            },
+            "5":{
+                "name": "Charmeleon" 
+            },
+            "6":{
+                "name": "Charizard" 
+            },
+
+}
