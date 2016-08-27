@@ -1,16 +1,16 @@
 {
     "Gen1":{
             "1":{
-                "name": "Bulbasaur",
-                "type": {
+                "Name": "Bulbasaur",
+                "Type": {
                     "type1": "Grass",
                     "type2": "Poison"
                     },
                 "Weak": {
-                    "Weak1": "Flying",
-                    "Weak2": "Fire",
-                    "Weak3": "Psychic",
-                    "Weak4": "Ice"
+                    "weak1": "Flying",
+                    "weak2": "Fire",
+                    "weak3": "Psychic",
+                    "weak4": "Ice"
                     },
                 "Resistant": {
                     "Resistant1": "Fighting",
@@ -28,13 +28,41 @@
                 "name": "Venasaur"
             },
             "4":{
-                "name": "Charmander"    
-            },
+                "Name": "Charmander",
+                "Type": "Flying",
+                "Weak": {
+                    "Weak1": "Ground",
+                    "Weak2": "Rock",
+                    "Weak3": "Water"
+                    },
+                "Resistant": {
+                    "Resistant1": "Bug",
+                    "Resistant2": "Steel",
+                    "Resistant3": "Fire",
+                    "Resistant4": "Grass",
+                    "Resistant5": "Ice",
+                    "Resistant6": "Fairy"
+                    }
+                },
             "5":{
                 "name": "Charmeleon" 
             },
             "6":{
                 "name": "Charizard" 
             },
+            "7":{
+                "Name": "Squirtle",
+                "Type": "Water",
+                "Weak": {
+                    "Weak1": "Grass",
+                    "Weak2": "Electric"
+                },
+                "Resistant": {
+                    "Resistant1": "Steel",
+                    "Resistant2": "Fire",
+                    "Resistant3": "Water",
+                    "Resistant4": "ice"
+                }
+            }
 
 }
