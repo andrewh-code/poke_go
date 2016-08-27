@@ -1,7 +1,24 @@
 {
     "Gen1":{
             "1":{
-                "name": "Bulbasaur"
+                "name": "Bulbasaur",
+                "type": {
+                    "type1": "Grass",
+                    "type2": "Poison"
+                    },
+                "Weak": {
+                    "Weak1": "Flying",
+                    "Weak2": "Fire",
+                    "Weak3": "Psychic",
+                    "Weak4": "Ice"
+                    },
+                "Resistant": {
+                    "Resistant1": "Fighting",
+                    "Resistant2": "Water",
+                    "Resistant3": "Electric",
+                    "Resistant4": "Fairy",
+                    "Resistant5": "Grass"
+                    }
                 }
             },
             "2":{
